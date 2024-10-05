@@ -1,5 +1,20 @@
 content: |
+  # Урок 1
 
-    # Demo page
+  ## Научихме за:
 
-    I am just a simple demo page. Go back to the [course page](course:)?
+  - Магически syntax:
+  ```c++
+      #include<iostream>
+      using namespace std;
+      int main() {
+          <code goes here>
+
+        return 0;
+      }
+  ```
+  - Променлива long long
+  - cout/cin
+
+  ## Домашно:
+  ...

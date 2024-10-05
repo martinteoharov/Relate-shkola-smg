@@ -1,22 +1,21 @@
 chunks:
-  - title: "Welcome to the sample course"
+  - title: "Школа Е Група 2024/2025"
     id: welcome
-    rules:
-      - if_after: end_week 3
-        if_before: 2038-01-01 13:00:00 -5
-        weight: 100
-
-      - weight: 0
 
     content: |
 
       # Школа Е Група 2024/2025!
 
-      Събота 09:30 - 12:30!
+      ### Събота 09:30 - 12:30!
+
+      ![ai_gen_image](repo:images/)
 
       Преподаватели:
-        - Мартин (0878785424)
-        - Игнес (0898313279)
+      - Мартин (0878785424)
+      - Игнес (0898313279)
 
       Състезания:
-        - 3ти ноември...
+      - 3ти ноември..
+      - ...
+
+      Учебник: [PDF](repocur:pdfs/uchebnik.pdf)

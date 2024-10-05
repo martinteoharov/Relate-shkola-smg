@@ -4,7 +4,7 @@ content: |
   ## Научихме за:
 
   - Магически syntax:
-  ```c++
+  ```
       #include<iostream>
       using namespace std;
       int main() {
@@ -13,6 +13,7 @@ content: |
         return 0;
       }
   ```
+
   - Променлива long long
   - cout/cin
 

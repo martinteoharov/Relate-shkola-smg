@@ -22,3 +22,4 @@ chunks:
 
   - title: "Урок 1"
     url: "staticpage:urok1"
+    id: urok1

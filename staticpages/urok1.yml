@@ -5,15 +5,15 @@ content: |
   ## Научихме за:
 
   - Магически syntax:
-    ```
-    #include<iostream>
-    using namespace std;
-    int main() {
-        <code goes here>
+  ```
+  #include<iostream>
+  using namespace std;
+  int main() {
+      <code goes here>
 
-      return 0;
-    }
-    ```
+    return 0;
+  }
+  ```
 
   - Променлива long long
   - cout/cin
